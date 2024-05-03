@@ -1,0 +1,28 @@
+.DS_Store
+
+# Compiled class files
+/target/
+/build/
+
+# IDE-specific files
+/.idea/
+/.vscode/
+*.iml
+
+# Maven-specific files
+mvnw
+mvnw.cmd
+.mvn/
+.idea/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+target/
+
+# Spring Boot specific
+log/
+logs/
+*.log
